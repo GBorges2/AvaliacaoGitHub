@@ -2,9 +2,9 @@
 Projeto de TESTE.
 
 ## **Função Principal**
-void main(){
+'''void main(){
     print('Hello');
-}
+}'''
 
   1. Crie o repósitorio
   2. Edite o arquivo README.md
